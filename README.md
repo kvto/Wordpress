@@ -42,26 +42,3 @@ Using the template and component manager as Elementor was, plugins to manage and
   </a>
 </div>
 
-  <div id="badges" align="center">
-  <a href="https://fizza.pe/">
-    Link to see the page: Fizza📕
-  </a>
-</div>
-
-<div id="badges" align="center">
-  <a href="https://brezzapiscos.com/">
-    Link to see the page: Brezza Piscos📕
-  </a>
-</div>
-
-<div id="badges" align="center">
-  <a href="https://brezzacubica.com/">
-    Link to see the page: Brezza Cubica📕
-  </a>
-</div>
-
-<div id="badges" align="center">
-  <a href="https://brezzarestaurante.com/">
-    Link to see the page: Brezza Restaurant📕
-  </a>
-</div>
